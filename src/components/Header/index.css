@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+li {
+  list-style-type: none;
+  font-family: Roboto;
+  color: black;
+  margin-left: 10px;
+  font-size: 20px;
+}
+ul {
+  display: flex;
+  margin-right: 10px;
+}
+.homeimg {
+  height: 80px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-2 {
+  display: flex;
+}
+.btn1{
+  width: 100px;
+  margin-top: 10px;
+}
